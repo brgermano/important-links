@@ -27,4 +27,28 @@ Nice Answer about CORS (º-º)
 
 https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
 
+### REACT
+
+Code Splitting in React Router v4
+
+https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
+
+Micro Frontends - Integrate React with other applications and frameworks
+
+https://medium.com/@sagiv.bengiat/integrate-react-with-other-applications-and-frameworks-94d443e3cc3f
+
+### CODE REVIEW
+
+Qual é meu papel durante o code review? (Boas práticas, como se portar no cr, exemplo de pull request)
+
+https://medium.com/trainingcenter/qual-e-meu-papel-durante-o-code-review-a9056dee1b23
+
+### REFERENCIAS DE CÓDIGO
+
+Basic Login
+
+https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+
+
 
