@@ -49,6 +49,41 @@ Basic Login
 
 https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 
+### VIDEOS
+
+Good and simple server-side tutorials with React
+
+https://www.youtube.com/watch?v=k66bOHX8MnY
+
+Dan Abramov - The Melting Pot of JavaScript
+
+https://www.youtube.com/watch?v=G39lKaONAlA&feature=youtu.be
+
+React Today and Tomorrow and 90% Cleaner React With Hooks
+
+https://www.youtube.com/watch?v=dpw9EHDh2bM
+
+React Hooks + Redux = 💜 | Diego Fernandes
+
+https://www.youtube.com/watch?v=7L7MhxjI4PE
+
+O futuro do NuBank com Flutter
+
+https://www.youtube.com/watch?v=R3ukZ5LlU0k&feature=youtu.be
+
+Frontinsampa 2015 - Sergio Lopes: Progressive Web Apps: o melhor da web, "Appficada"APPFICADA"
+
+https://www.youtube.com/watch?v=sH7dlRnuh-k
+
+
+
+
+
+
+
+
+
+
 
 
 
