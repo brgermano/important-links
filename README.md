@@ -1,5 +1,5 @@
 # important-links
-some links :)
+To study at the weekend :)
 
 ### CORS
 
