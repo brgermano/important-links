@@ -37,6 +37,24 @@ Micro Frontends - Integrate React with other applications and frameworks
 
 https://medium.com/@sagiv.bengiat/integrate-react-with-other-applications-and-frameworks-94d443e3cc3f
 
+### FLOW 
+
+Flow as Replacement for PropTypes
+
+http://blog.rstankov.com/flow-as-replacement-for-proptype/
+
+Oficial Docs - Function Types
+
+https://flow.org/en/docs/types/functions/
+
+It’s time to drop PropTypes and just use Flow for React
+
+https://medium.com/@linmic/its-time-to-remove-proptypes-and-just-use-flow-for-react-4a3de615aac5
+
+Criando JavaScript melhor com o Flow
+
+https://www.sitepoint.com/writing-better-javascript-with-flow/
+
 ### CODE REVIEW
 
 Qual é meu papel durante o code review? (Boas práticas, como se portar no cr, exemplo de pull request)
