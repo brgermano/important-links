@@ -43,7 +43,7 @@ Qual é meu papel durante o code review? (Boas práticas, como se portar no cr, 
 
 https://medium.com/trainingcenter/qual-e-meu-papel-durante-o-code-review-a9056dee1b23
 
-### REFERENCIAS DE CÓDIGO
+### CODE REFS
 
 Basic Login
 
