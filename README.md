@@ -107,6 +107,10 @@ API do Intersection Observer
 
 https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
+OPTIONS METHOD
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods/OPTIONS
+
 
 
 
