@@ -103,6 +103,9 @@ How Browsers Work: Behind the scenes of modern web browsers
 
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
+API do Intersection Observer
+
+https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 
 
