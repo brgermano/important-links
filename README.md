@@ -15,6 +15,10 @@ How To Use an IntersectionObserver in a React Hook
 
 https://medium.com/the-non-traditional-developer/how-to-use-an-intersectionobserver-in-a-react-hook-9fb061ac6cb5
 
+Implementing push notifications with Create React App
+
+https://medium.com/founding-ithaka/implementing-push-notifications-with-create-react-app-bf35cd25d870
+
 ### FLOW 
 
 Flow as Replacement for PropTypes
