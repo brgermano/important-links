@@ -93,6 +93,12 @@ Frontinsampa 2015 - Sergio Lopes: Progressive Web Apps: o melhor da web, "Appfic
 
 https://www.youtube.com/watch?v=sH7dlRnuh-k
 
+### BROWSERS UNIVERSE
+
+How Browsers Work: Behind the scenes of modern web browsers
+
+https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
 
 
 
