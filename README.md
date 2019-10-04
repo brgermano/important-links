@@ -19,6 +19,10 @@ Implementing push notifications with Create React App
 
 https://medium.com/founding-ithaka/implementing-push-notifications-with-create-react-app-bf35cd25d870
 
+Testing Redux
+
+https://redux.js.org/recipes/writing-tests
+
 ### FLOW 
 
 Flow as Replacement for PropTypes
