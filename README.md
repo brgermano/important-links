@@ -115,7 +115,11 @@ Nice Answer about CORS (º-º)
 
 https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
 
+### VIM
 
+NERD tree
+
+https://www.vim.org/scripts/script.php?script_id=1658
 
 
 
