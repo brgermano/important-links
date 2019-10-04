@@ -23,6 +23,10 @@ Testing Redux
 
 https://redux.js.org/recipes/writing-tests
 
+How to prevent XSS attacks when using dangerouslySetInnerHTML in React
+
+https://dev.to/jam3/how-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react-1464
+
 ### FLOW 
 
 Flow as Replacement for PropTypes
