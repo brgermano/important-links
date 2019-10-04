@@ -121,7 +121,9 @@ NERD tree
 
 https://www.vim.org/scripts/script.php?script_id=1658
 
+Desvendando o editor Vim
 
+https://blog.caelum.com.br/desvendando-o-editor-vim/
 
 
 
