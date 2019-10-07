@@ -133,7 +133,9 @@ Desvendando o editor Vim
 
 https://blog.caelum.com.br/desvendando-o-editor-vim/
 
+JavaScript Autocompletion on Vim
 
+https://medium.com/vim-drops/javascript-autocompletion-on-vim-4fea7f6934e2
 
 
 
