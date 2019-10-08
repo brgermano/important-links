@@ -142,3 +142,27 @@ https://medium.com/vim-drops/javascript-autocompletion-on-vim-4fea7f6934e2
 CSS o fodastico :not
 
 https://www.felipefialho.com/blog/css-o-fodastico-not/
+
+### PODCASTS
+
+Evolução e Especificação do JavaScript Moderno – Hipsters #58
+
+https://hipsters.tech/evolucao-e-especificacao-do-javascript-moderno/
+
+O Reino encantado do JavaScript – Hipsters #38
+
+https://hipsters.tech/o-reino-encantado-do-javascript-hipsters-38/
+
+### TypeScript
+
+Why You Should Use TypeScript for Developing Web Applications
+
+https://dzone.com/articles/what-is-typescript-and-why-use-it#targetText=TypeScript%20simplifies%20JavaScript%20code,%20making%20it%20easier%20to%20read%20and%20debug.&targetText=TypeScript%20provides%20highly%20productive%20development,easier%20to%20read%20and%20understand.&targetText=TypeScript%20is%20a%20superset%20of%20ES3,%20ES5,%20and%20ES6.
+
+Why TypeScript is the best way to write Front-end in 2019
+
+https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164
+
+What is TypeScript and why would I use it in place of JavaScript? [closed]
+
+https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript/35048303#35048303
