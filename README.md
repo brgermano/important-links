@@ -137,7 +137,8 @@ JavaScript Autocompletion on Vim
 
 https://medium.com/vim-drops/javascript-autocompletion-on-vim-4fea7f6934e2
 
+### CSS
 
+CSS o fodastico :not
 
-
-
+https://www.felipefialho.com/blog/css-o-fodastico-not/
