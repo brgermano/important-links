@@ -153,6 +153,10 @@ O Reino encantado do JavaScript – Hipsters #38
 
 https://hipsters.tech/o-reino-encantado-do-javascript-hipsters-38/
 
+Práticas de Orientação a Objetos – Hipsters #129
+
+https://hipsters.tech/praticas-de-orientacao-a-objetos-hipsters-129/
+
 ### TypeScript
 
 Why You Should Use TypeScript for Developing Web Applications
