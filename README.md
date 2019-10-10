@@ -27,6 +27,12 @@ How to prevent XSS attacks when using dangerouslySetInnerHTML in React
 
 https://dev.to/jam3/how-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react-1464
 
+### TESTS - JEST
+
+Escrevendo testes com Jest, Enzyme e Create React App
+
+https://medium.com/@dnvtrn/escrevendo-testes-com-jest-enzyme-e-create-react-app-67c279b22e4c
+
 ### FLOW 
 
 Flow as Replacement for PropTypes
