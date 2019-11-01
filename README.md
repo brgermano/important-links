@@ -3,6 +3,10 @@ To study at the weekend :)
 
 ### REACT
 
+Substituindo Redux pelo Context Api + Hooks
+
+https://medium.com/reactbrasil/substituindo-o-redux-pelo-context-api-react-hooks-a70e995daa1d
+
 Code Splitting in React Router v4
 
 https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
