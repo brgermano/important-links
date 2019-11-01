@@ -1,6 +1,40 @@
 # important-links
 To study at the weekend :)
 
+### Javascript
+
+Introdução ao JS 
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
+
+Introdução à Programação Funcional (Functional Programming) em Javascript
+
+https://tableless.com.br/introducao-programacao-funcional-functional-programming-em-javascript/
+
+IIFE
+
+https://developer.mozilla.org/pt-BR/docs/Glossario/IIFE
+
+Javascript Design Pattern
+
+https://udgwebdev.com/design-patterns-para-javascript-parte-1/
+
+Learn to become a modern Frontend Developer in 2019
+
+https://medium.com/@kamranahmedse/modern-frontend-developer-in-2018-4c2072fa2b9c
+
+Implementing Heaps in JavaScript
+
+https://blog.bitsrc.io/implementing-heaps-in-javascript-c3fbf1cb2e65
+
+State of React State Management for 2019
+
+https://blog.bitsrc.io/state-of-react-state-management-in-2019-779647206bbc
+
+Self-Executing Anonymous Functions
+
+http://markdalgleish.com/2011/03/self-executing-anonymous-functions/
+
 ### REACT
 
 Substituindo Redux pelo Context Api + Hooks
@@ -149,9 +183,17 @@ https://medium.com/vim-drops/javascript-autocompletion-on-vim-4fea7f6934e2
 
 ### CSS
 
+CSS Básico
+
+https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico
+
 CSS o fodastico :not
 
 https://www.felipefialho.com/blog/css-o-fodastico-not/
+
+CSS Position
+
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/position
 
 ### PODCASTS
 
