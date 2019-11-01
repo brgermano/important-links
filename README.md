@@ -222,3 +222,9 @@ https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-e
 What is TypeScript and why would I use it in place of JavaScript? [closed]
 
 https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript/35048303#35048303
+
+### WEB (???)
+
+SRE
+
+https://churrops.io/2017/10/09/o-que-e-sre-site-reliability-engineering/ 
