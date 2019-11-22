@@ -7,6 +7,14 @@ Introdução ao JS
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
+Sobre o objeto map do javascript
+
+https://javascript.info/map-set
+
+Memoization pattern
+
+http://cangaceirojavascript.com.br/funcoes-velozes-com-memoization-pattern/
+
 Introdução à Programação Funcional (Functional Programming) em Javascript
 
 https://tableless.com.br/introducao-programacao-funcional-functional-programming-em-javascript/
