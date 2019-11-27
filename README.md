@@ -7,6 +7,14 @@ Introdução ao JS
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
+Artigos ES6
+
+https://nipher.io/blog/
+
+ES6 features
+
+http://es6-features.org/#Constants
+
 Sobre o objeto map do javascript
 
 https://javascript.info/map-set
