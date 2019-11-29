@@ -15,6 +15,18 @@ ES6 features
 
 http://es6-features.org/#Constants
 
+Como o JavaScript funciona: dentro da engine V8 + 5 dicas sobre como escrever código otimizado
+
+https://medium.com/reactbrasil/como-o-javascript-funciona-dentro-da-engine-v8-5-dicas-sobre-como-escrever-c%C3%B3digo-otimizado-e05af6088fd5
+
+Como o Javascript funciona: O event loop e o surgimento da programação assíncrona + 5 maneiras de codificar melhor com async/await
+
+https://medium.com/reactbrasil/como-o-javascript-funciona-o-event-loop-e-o-surgimento-da-programa%C3%A7%C3%A3o-ass%C3%ADncrona-5-maneiras-de-18d0b8d6849a
+
+Como o Javascript funciona: uma visão geral da engine, runtime e da call stack
+
+https://medium.com/reactbrasil/como-o-javascript-funciona-uma-vis%C3%A3o-geral-da-engine-runtime-e-da-call-stack-471dd5e1aa30
+
 Sobre o objeto map do javascript
 
 https://javascript.info/map-set
