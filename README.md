@@ -7,6 +7,10 @@ Introdução ao JS
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
+Substituir redux por hooks
+
+https://medium.com/better-programming/using-hooks-to-replace-redux-392f98ca61b7
+
 Artigos ES6
 
 https://nipher.io/blog/
