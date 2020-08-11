@@ -1,6 +1,10 @@
 # important-links
 To study at the weekend :)
 
+## GIT
+
+https://docs.github.com/pt/actions/reference/events-that-trigger-workflows
+
 ### Javascript
 
 Introdução ao JS 
