@@ -107,24 +107,6 @@ Escrevendo testes com Jest, Enzyme e Create React App
 
 https://medium.com/@dnvtrn/escrevendo-testes-com-jest-enzyme-e-create-react-app-67c279b22e4c
 
-### FLOW 
-
-Flow as Replacement for PropTypes
-
-http://blog.rstankov.com/flow-as-replacement-for-proptype/
-
-Oficial Docs - Function Types
-
-https://flow.org/en/docs/types/functions/
-
-It’s time to drop PropTypes and just use Flow for React
-
-https://medium.com/@linmic/its-time-to-remove-proptypes-and-just-use-flow-for-react-4a3de615aac5
-
-Criando JavaScript melhor com o Flow
-
-https://www.sitepoint.com/writing-better-javascript-with-flow/
-
 ### CODE REVIEW
 
 Qual é meu papel durante o code review? (Boas práticas, como se portar no cr, exemplo de pull request)
