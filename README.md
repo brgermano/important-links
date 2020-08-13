@@ -1,5 +1,5 @@
 # important-links
-To study at the weekend :)
+Para estudar e revisar
 
 ## SEMVER
 
