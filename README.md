@@ -1,6 +1,22 @@
 # important-links
 To study at the weekend :)
 
+## SEMVER
+
+https://fjorgemota.com/versionamento-semantico-ou-como-versionar-software/
+
+https://blog.tecnospeed.com.br/versionamento-semantico-app/
+
+https://matteus.dev/versionamento-semantico-2-0-0/
+
+Plugin semantic-release
+https://github.com/semantic-release/semantic-release
+
+https://medium.com/serenata/versionamento-sem%C3%A2ntico-um-passo-al%C3%A9m-do-git-53e466d0f21a
+
+doc oficial
+https://semver.org/lang/pt-BR/
+
 ## GIT
 
 https://docs.github.com/pt/actions/reference/events-that-trigger-workflows
