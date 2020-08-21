@@ -1,6 +1,10 @@
 # important-links
 Para estudar e revisar
 
+## rxJS
+
+https://medium.com/better-programming/5-awesome-rxjs-observables-and-operators-that-are-often-overlooked-726c300308dc
+
 ## SEMVER
 
 https://fjorgemota.com/versionamento-semantico-ou-como-versionar-software/
