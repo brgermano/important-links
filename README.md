@@ -141,6 +141,10 @@ https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login
 
 ### VIDEOS
 
+dependabot
+
+https://www.youtube.com/watch?v=zV9yZZzZGpU&feature=youtu.be
+
 Good and simple server-side tutorials with React
 
 https://www.youtube.com/watch?v=k66bOHX8MnY
