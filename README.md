@@ -233,6 +233,10 @@ CSS Position
 
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/position
 
+Css Grid e flexbox
+
+https://www.felipefialho.com/blog/css-grid-e-flexbox-quando-utilizar/
+
 ### PODCASTS
 
 Evolução e Especificação do JavaScript Moderno – Hipsters #58
