@@ -1,6 +1,10 @@
 # important-links
 Para estudar e revisar
 
+## Building a data layer with Vue and Composition API
+
+https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c
+
 ## rxJS
 
 https://medium.com/better-programming/5-awesome-rxjs-observables-and-operators-that-are-often-overlooked-726c300308dc
