@@ -282,3 +282,13 @@ https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-
 SRE
 
 https://churrops.io/2017/10/09/o-que-e-sre-site-reliability-engineering/ 
+
+
+### Dev Ops
+
+Engenharia de Software Moderna (Livro Digital)
+Marco Tulio Valente
+https://engsoftmoderna.info/cap10.html
+
+Integração contínua e feature toggles
+https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
