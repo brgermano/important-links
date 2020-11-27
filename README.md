@@ -1,6 +1,10 @@
 # important-links
 Para estudar e revisar
 
+O Manifesto Reativo
+
+https://www.reactivemanifesto.org/pt-BR
+
 ## Building a data layer with Vue and Composition API
 
 https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c
