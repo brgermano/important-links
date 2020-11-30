@@ -13,6 +13,12 @@ https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-an
 
 https://medium.com/better-programming/5-awesome-rxjs-observables-and-operators-that-are-often-overlooked-726c300308dc
 
+https://www.youtube.com/watch?v=Urv82SGIu_0&ab_channel=LogRocket
+
+https://www.youtube.com/watch?v=N0ie4xe48Ng&ab_channel=AluraCursosOnline
+
+http://cangaceirojavascript.com.br/de-vanilla-javascript-para-rxjs/
+
 ## SEMVER
 
 https://fjorgemota.com/versionamento-semantico-ou-como-versionar-software/
