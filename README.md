@@ -107,6 +107,21 @@ http://markdalgleish.com/2011/03/self-executing-anonymous-functions/
 
 ### REACT
 
+Update on Async Rendering
+https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html
+
+Sharing state between browser tabs with Redux.
+https://medium.com/@daverivera90/sharing-state-between-browser-tabs-with-redux-68899eb88fb7
+
+Como reduzir em 60% o tempo de carregamento das aplicações com React
+https://www.infoq.com/br/articles/reduce-react-load-time/
+
+useEffect(fn, []) is not the new componentDidMount()
+https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/
+
+ReactJS - useSWR | Como carregar dados em uma aplicação
+https://www.youtube.com/watch?v=kJNwhXn9Yi4&feature=youtu.be&ab_channel=DevPleno
+
 Substituindo Redux pelo Context Api + Hooks
 
 https://medium.com/reactbrasil/substituindo-o-redux-pelo-context-api-react-hooks-a70e995daa1d
