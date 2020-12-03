@@ -1,5 +1,10 @@
 # important-links
-Para estudar e revisar
+To study
+
+## Product 
+
+Marty Cagan fala sobre Liderança de Produtos no Brasil (com legendas) | Tera Product Talks
+https://www.youtube.com/watch?v=tilfeZtUaB8&ab_channel=Tera
 
 O Manifesto Reativo
 
