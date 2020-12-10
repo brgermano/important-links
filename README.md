@@ -42,6 +42,10 @@ https://docs.github.com/pt/actions/reference/events-that-trigger-workflows
 
 ### Javascript
 
+JavaScript Modules: A Beginner’s Guide
+
+https://www.freecodecamp.org/news/javascript-modules-a-beginner-s-guide-783f7d7a5fcc/#.b592lxm37
+
 Introdução ao JS 
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
@@ -170,6 +174,10 @@ Basic Login
 https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 
 ### VIDEOS
+
+Agora o Next.js foi longe demais (estamos hypados) | Code/Drops #64
+
+https://www.youtube.com/watch?v=0_UM3LS_LOs&ab_channel=Rocketseat
 
 dependabot
 
