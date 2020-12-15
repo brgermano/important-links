@@ -18,6 +18,10 @@ http://cangaceirojavascript.com.br/de-vanilla-javascript-para-rxjs/
 
 ## SEMVER
 
+https://www.davehall.com.au/blog/dave/2016/01/19/internal-applications-when-semantic-versioning-doesnt-make-sense
+
+https://medium.com/@u_glow/making-sense-of-semantic-versioning-for-end-user-software-applications-a3049d97478b
+
 https://fjorgemota.com/versionamento-semantico-ou-como-versionar-software/
 
 https://blog.tecnospeed.com.br/versionamento-semantico-app/
