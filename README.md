@@ -134,7 +134,8 @@ https://medium.com/reactbrasil/substituindo-o-redux-pelo-context-api-react-hooks
 
 Code Splitting in React Router v4
 
-https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
+https://
+less-stack.com/chapters/code-splitting-in-create-react-app.html
 
 Micro Frontends - Integrate React with other applications and frameworks
 
@@ -183,10 +184,6 @@ https://www.youtube.com/watch?v=0_UM3LS_LOs&ab_channel=Rocketseat
 dependabot
 
 https://www.youtube.com/watch?v=zV9yZZzZGpU&feature=youtu.be
-
-Good and simple server-side tutorials with React
-
-https://www.youtube.com/watch?v=k66bOHX8MnY
 
 Dan Abramov - The Melting Pot of JavaScript
 
