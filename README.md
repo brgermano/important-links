@@ -37,7 +37,7 @@ https://medium.com/serenata/versionamento-sem%C3%A2ntico-um-passo-al%C3%A9m-do-g
 doc oficial
 https://semver.org/lang/pt-BR/
 
-## GIT
+## GITHUB
 
 https://docs.github.com/pt/actions/reference/events-that-trigger-workflows
 
