@@ -137,6 +137,10 @@ Code Splitting in React Router v4
 https://
 less-stack.com/chapters/code-splitting-in-create-react-app.html
 
+Micro Frontend
+
+https://micro-frontends.org/
+
 Micro Frontends - Integrate React with other applications and frameworks
 
 https://medium.com/@sagiv.bengiat/integrate-react-with-other-applications-and-frameworks-94d443e3cc3f
